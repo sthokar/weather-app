@@ -15,5 +15,5 @@ React Weather App that give you the latest weather forecast for cities around th
 - It will also give you 7 days weather forecast
 
 ### Check out the app using the link below
-https://weather-forecast-75b5d.web.app/
+- https://weather-forecast-75b5d.web.app/
 
